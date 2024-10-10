@@ -94,7 +94,7 @@ Ejemplo:
 name=input('Ingrese el nombre: ')
 ```
 
-El valor dato que se guardara sera en formato `String`, pero si queremos otro tipo de dato, vamos a `convertirlo`, colocando antes del `input` el tipo de dato.
+El valor dado se guardara sera en formato `String`, pero si queremos otro tipo de dato, vamos a `convertirlo`, colocando antes del `input` el tipo de dato.
 
 Ejemplo:
 
@@ -181,7 +181,7 @@ else:
     print('No es el numero 5')
 ```
 
-Ten cuidado!!! El `else` no hace condiciones, por lo que si colocar el siguiente codigo esta mal:
+Ten cuidado!!! El `else` no hace condiciones, por lo que si colocas el siguiente codigo, esta mal:
 
 Ejemplo:
 
@@ -192,7 +192,7 @@ if x == 5:
 else x== 6:
     print('Es el numero 6')
 ```
-Esto esta mal, es un sacrilegio hacer eso, cuando tenemos varias condiciones, podemos hacer uso del buen `elif` que basicamente es un `else` con un `if` anidados
+Esto esta mal, es un sacrilegio hacer eso, cuando tenemos varias condiciones, podemos hacer uso del buen `elif` que basicamente es un `else` con un `if` fusionados
 
 #### Usando elif
 ```py
@@ -547,4 +547,9 @@ Dentro de la función: [1, 2, 3, 4]
 Fuera de la función: [1, 2, 3, 4]
 '''
 ```
+
+
+Eso es todo por ahora, obviamente esto no es todo, hay aun mas cosas de python que podemos usar, pero eso ya depende de lo que quieras hacer, por lo que te propongo estudiar aun mas, hay mucha informacion en la web, por lo que tienes todo a mano.
+
+# Espero te haya gustado :smile: :smile:
 

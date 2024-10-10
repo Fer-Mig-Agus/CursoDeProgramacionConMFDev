@@ -78,11 +78,11 @@ x=7.5 # Tipo Float
 
 ## Palabras reservadas
 
-![alt text](image.png)
+![alt text](https://res.cloudinary.com/dgp4xwknu/image/upload/v1728586246/Certificados/pjzzrxlasrgix7wrklb1.png)
 
 ## Operadores
 
-![alt text](image-1.png)
+![alt text](https://res.cloudinary.com/dgp4xwknu/image/upload/v1728586246/Certificados/dm55oufcvnqdpha7douw.png)
 
 ## Ingreso de datos
 
